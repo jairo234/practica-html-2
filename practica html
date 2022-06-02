@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BIENVENIDO MUNDO</title>
+</head>
+<body>
+
+
+    <h1>Hola MUNDO</h1>
+    <h2>Hola MUNDO Hermoso</h2>
+    <h3>Hola MUNDO otra vez</h3>
+    <h4>hola MUNDO de nuevo otra vez</h4>
+    <h5>hola MUNDO de planeta</h5>
+    <h6>Hola MUNDO espacial</h6>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, eveniet.
+
+         <ul>
+            <li>carmen</li>
+            <li>jairo</li>
+            <li>andreina</li>
+            <li>placido</li>
+        </ul>     
+    </p>
+    
+      <ul>
+          <li><a href="#">jairosky</a></li>
+          <li><a href="#">andrinosky</a></li>
+          <li><a href="#">carmensosky</a></li>
+          <li><a href="#">placidosky</a></li>
+      </ul>    
+
+      <img src="mundo.com.jpg" alt="montaña rocoso">
+
+      <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, dicta.
+          Lorem, ipsum.
+          Lorem, ipsum dolor.
+          Lorem ipsum dolor sit.
+          Lorem ipsum dolor sit amet.
+          Lorem ipsum dolor sit amet consectetur.
+          Lorem ipsum dolor sit amet consectetur adipisicing.
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint?
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, dicta!
+      </p>
+
+
+      <h1>HELADOS LONDYS</h1>
+      
+      <img src="londys.com.jpg" alt="mejores helado">
+
+    
+    <mark>Oferta de helado al 10%</mark>
+
+    <h5>sabor narutales</h5>
+
+    <ul>
+        <li>parchita</li>
+        <li>mango</li>
+        <li>guanabana</li>
+        <li>patilla</li>
+        <li>tamarindo</li>
+        <h4> helados londys el mejor calidad y sabor</h4>
+    </ul>
+
+    <h5>helados con leche</h5>
+
+    <ul>
+        <dl>colita con leche</dl>
+        <dl>mantecado</dl>
+        <dl>galleta de oreo</dl>
+        <dl>galleta maria</dl>
+        <dl>ron con pasas</dl>
+        <dl>coco</dl>
+        <dl>nucita</dl>
+    </ul>
+
+
+
+    <P> <mark> todo a a 1 boliar aprovenchen que me voy pal coño</mark></P>
+
+    <form action=""> 
+        <label for="name">Buscador</label>
+        <input type="text" name="name">
+    </form>
+
+
+    <H1>Panaderia junko</H1>
+
+    <img src="panadera.png" alt="logo de Panaderia">
+
+    <ul>panaderia y caferia</ul>
+
+    <p>
+
+        <small> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore, qui maxime.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, praesentium?
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Explicabo.
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+        </small>  
+    </p>
+
+    <ul>
+        <li>Panes salado</li>
+    </ul>
+
+    <ul>
+        <ol>campesino</ol>
+        <ol>frances</ol>
+        <ol>gallego</ol>
+        <ol>canilla</ol>
+        <ol>hamburguesa</ol>
+        <ol>perro caliente</ol>
+    </ul>
+
+<img src="pansalado.jpg" alt="panes salados">
+
+    <ul>
+        <li>Panes dulces</li>
+    </ul>
+
+    <ul>
+        <ol>bombas</ol>
+        <ol>donas</ol>
+        <ol>golfeados</ol>
+        <ol>acemitas</ol>
+        <ol>arequipes</ol>
+        <ol>panetones</ol>
+    </ul>
+    
+    <img src="panesdulces.jpg" alt="panes dulces">
+
+
+    <form action="">
+        <label for="name">Buscador</label>
+        <input type="text" name="name">
+    </form>
+
+                                          
+    <small>
+        <mark>LOS MEJORES PANES DE LA CIUDAD</mark>
+    </small>
+    
+    <ul>
+       <dl> ven y disfruta</dl>  
+    </ul>
+<ul>
+    
+    <dl><mark>LUNES A SABADO</mark></dl>
+    
+</ul>
+        
+</body>
+</html>
