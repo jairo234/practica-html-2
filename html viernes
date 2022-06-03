@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Alicia el pais de las maravillas </title>
+    </head>
+    <body>
+
+        <ul>
+            <h1><dl>andreina le duele el Riñon</dl></h1>
+        </ul>
+
+        <img src="tedemata.jpg" alt="te de mata">
+
+        <ul>
+            <li><a href="#">agua de piña</a></li>
+            <li><a href="#">agua de coco</a></li>
+            <li><a href="#">agua de caña la india</a></li>
+        </ul>
+        <p>
+            hola mundo que tal todo
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat,
+            quis maxime!
+        </p>
+
+        <small>todo a mitad de precio</small>
+
+        <strong>hoy viernes esta haciendo calor y mucha lluvia</strong>
+
+        Lorem ipsum dolor sit amet.
+        Lorem ipsum dolor sit amet consectetur.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        <br>
+        Lorem ipsum dolor, sit amet consectetur adipisicing
+        Lorem ipsum dolor sit.
+        Lorem, ipsum dolor.
+        Lorem, ipsum.
+        <br>
+    </p>
+
+    
+    
+    <h1 style="color:rgb(22, 119, 63);font-size:px100">zona de naturaleza</h1>
+
+    <p>
+        <strong> 
+            Lorem ipsum dolor sit amet.
+            Lorem ipsum dolor sit amet consectetur.
+            Lorem ipsum dolor sit amet consectetur adipisicing.
+            Lorem ipsum dolor sit.
+            <br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt.<br>
+</strong>
+    </p>
+     
+    <img src="naturaleza.jpg" alt="hermoso paisaje natural">
+
+
+    
+       <h3>las 7 maravillas del mundo moderno</h3>
+
+       <ul>
+           <li>Machu Picchu.</li>
+           <li>Chichén Itzá</li>
+           <li>Coliseo Romano.</li>
+           <li>Cristo Redentor.</li>
+           <li>La Gran Muralla China.</li>
+           <li>El Taj Mahal.</li>
+           <li>La Ciudad de Petra.</li>
+       </ul>
+<h4>
+
+    <mark style="color:rgb(8, 8, 8);font-size: x-large;">
+     hoy es viernes y el cuerpo lo sabe
+    </mark>
+
+</h4>
+
+       <img src="viernes.jpg" alt="viernes y cuerpo lo sabe">
+
+       <ul>
+           <dl>viernes</dl>
+           <dl>sabado</dl>
+           <dl>domingo</dl>
+       </ul>
+           
+       <p>
+           <strong>fin de semana espectacular</strong>
+
+           <small>
+               nos vemos el lunes >:D 
+           </small>
+   
+        </p>
+
+       
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </body>
+    </html>
