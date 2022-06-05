@@ -94,5 +94,60 @@
    
         </p>
 
+        <h1 style="color:rgb(151, 2, 2);font-size:xx-large">HOY ES DOMINGO</h1>
+
+
+        <h2>
+            son las 6 pm del dia domingo
+        </h2>
+        
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod, dignissimos!
+            <strong>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, quasi voluptate?
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam, vero!
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet.
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                Lorem ipsum dolor sit, amet consectetur adipisicing.
+            </strong>
+
+        </p>
+
+        <ul>
+            <li>comer</li>
+            <li>bañarse</li>
+            <li>television</li>
+            <li>dormir</li>
+        </ul>
+
+        <h5>
+            <mark> comer </mark>
+        </h5>
+
+        <p style="color:rgb(8, 8, 8);font-size: medium;">
+
+            Lorem ipsum dolor sit amet.
+            Lorem ipsum dolor sit.
+            Lorem ipsum dolor sit.
+            Lorem, ipsum dolor.
+            Lorem, ipsum.
+        
+        </p>
+
+        <img src="comer.jpg" alt="niño comiendo">
+        
+        <h5>
+            <mark>bañarse</mark>
+        </h5>
+        
+        <p>
+            <strong>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, eum.
+                Lorem ipsum dolor sit amet.
+                Lorem, ipsum.
+            </strong>
+        </p>
+         
+        <img src="bañarse.jpg" alt="hombre bañandose">
+
         </body>
     </html>
